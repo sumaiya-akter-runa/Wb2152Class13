@@ -1,0 +1,45 @@
+
+p{
+    color: red;
+}
+.op p{
+    color: green;
+}
+.op h1{
+    color:hsl(0, 87%, 50%);
+}
+.op #oop{
+    background-color:aqua;}
+
+.op{
+    background-image: url("image/download.jpeg");
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 600px;
+}
+.cp1{
+    
+    background-image: url("image/images%20(1).jpeg");
+    height: 800px;
+    width: 200px;
+    background-repeat: repeat-y;
+}
+.cp{
+    background-image: url("image/images.jpeg");
+    height: 500px;
+    width: 800px;
+    background-repeat: round;
+}
+.cpp{
+    background-image: url(image/download.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 600px;
+    width: 1000px;
+}
+h1{
+    border-style: dashed;
+    border-width: 5px 10px 15px 20px;
+    border-color: deeppink orange red greenyellow;
+}
